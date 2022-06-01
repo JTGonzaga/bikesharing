@@ -2,7 +2,7 @@
 # Overview
   This analysis was conducted to gain a better understanding of trends in CitiBike data from New York City through the data provided. Below are the graphs of my findings:
   
-[link to dashboard](https://public.tableau.com/app/profile/jadon6466/viz/bikesharing_dashboard/Dashboard1?publish=yes "link to dashboard")
+[link to dashboard](https://public.tableau.com/app/profile/jadon6466/viz/bikesharing_dashboard/Dashboard1?publish=yes "Link to Dashboard")
   
 # Results
   
